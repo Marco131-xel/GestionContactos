@@ -1,0 +1,3 @@
+D:/Documentos/Marco/Repositorio/EDD/Gestion de contactos/cmake-build-debug/CMakeFiles/Gestion_de_contactos.dir
+D:/Documentos/Marco/Repositorio/EDD/Gestion de contactos/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documentos/Marco/Repositorio/EDD/Gestion de contactos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
